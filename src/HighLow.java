@@ -98,7 +98,9 @@ public class HighLow {
         Scanner scanner = new Scanner(System.in);
         HighLowGame game = new HighLowGame(100);
 
-        System.out.println("$====  ^ HIGH-LOW GAME v  ====$");
+        System.out.println("===============================");
+        System.out.println("   🃏 HIGHER OR LOWER 🃏");
+        System.out.println("===============================");
        
        
        
