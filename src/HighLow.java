@@ -98,13 +98,14 @@ public class HighLow {
         Scanner scanner = new Scanner(System.in);
         HighLowGame game = new HighLowGame(100);
 
-        System.out.println("Welcome to the Card Guessing Game!");
-        System.out.println("Place your bet and try to guess whether the next card will be higher or lower.");
-        System.out.println("If you guess correctly, you will win extra credits equal to your bet!");
-        System.out.println("If it is a tie, your balance stays the same.");
-        System.out.println("But if you lose, your bet will be deducted from your balance.");
-        System.out.println("Good luck and may the odds be in your favor!");
+        System.out.println("Welcome to the Card Guessing Challenge!");
+        System.out.println("Place your bet and predict whether the next card will be higher or lower.");
+        System.out.println("Guess correctly and earn bonus credits equal to your wager!");
+        System.out.println("If it's a tie, your balance remains unchanged.");
+        System.out.println("But if you're wrong, your bet will be subtracted from your total.");
+        System.out.println("Best of luck — may fortune smile upon you!");
         System.out.println("");
+        
 
 
         System.out.println("===============================");
